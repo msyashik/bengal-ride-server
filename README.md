@@ -26,6 +26,7 @@
 - Conditional Rendering
 - Firebase Authentication
 - Sign in and Sign up using Google and Facebook
+- Context API
 - JWT Token
 - MongoDB Cloud
   <br/>

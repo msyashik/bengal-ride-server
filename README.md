@@ -1,6 +1,6 @@
 # React Fullstack Project
 
-## [RichDeals](https://inspiring-lamport-26010f.netlify.app/)
+## [RichDeals](https://bengal-ride.web.app/)
 
 ### Languages and Tools
 
